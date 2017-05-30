@@ -12,6 +12,7 @@
 		49092D111EDCCEDF00B60B4F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49092D0F1EDCCEDF00B60B4F /* Main.storyboard */; };
 		49092D131EDCCEDF00B60B4F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 49092D121EDCCEDF00B60B4F /* Assets.xcassets */; };
 		49092D161EDCCEDF00B60B4F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 49092D141EDCCEDF00B60B4F /* LaunchScreen.storyboard */; };
+		49092D1E1EDCD4AE00B60B4F /* TodoList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49092D1D1EDCD4AE00B60B4F /* TodoList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		49092D121EDCCEDF00B60B4F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		49092D151EDCCEDF00B60B4F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		49092D171EDCCEDF00B60B4F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		49092D1D1EDCD4AE00B60B4F /* TodoList.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TodoList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				49092D0B1EDCCEDF00B60B4F /* AppDelegate.swift */,
 				49092D0D1EDCCEDF00B60B4F /* ViewController.swift */,
 				49092D0F1EDCCEDF00B60B4F /* Main.storyboard */,
+				49092D1D1EDCD4AE00B60B4F /* TodoList.swift */,
 				49092D121EDCCEDF00B60B4F /* Assets.xcassets */,
 				49092D141EDCCEDF00B60B4F /* LaunchScreen.storyboard */,
 				49092D171EDCCEDF00B60B4F /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				49092D1E1EDCD4AE00B60B4F /* TodoList.swift in Sources */,
 				49092D0E1EDCCEDF00B60B4F /* ViewController.swift in Sources */,
 				49092D0C1EDCCEDF00B60B4F /* AppDelegate.swift in Sources */,
 			);
